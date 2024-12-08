@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# I'm Izza
+## Hi there, I'm Izza 👋
 
 - 🔭 I’m currently working as **Mobile Developer**
 - 👀 I’m interested in Flutter, Android and iOS develop
